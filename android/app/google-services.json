@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "84987646582",
+    "firebase_url": "https://temutemu-5b5cd.firebaseio.com",
+    "project_id": "temutemu-5b5cd",
+    "storage_bucket": "temutemu-5b5cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84987646582:android:45a18bfef77cf8cc",
+        "android_client_info": {
+          "package_name": "com.example.temutemu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84987646582-on6h6vugkr2k5a8s002k20ta93pou6j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmfuN5NsBrCunqBboK-6EbLDK9vzX_Z3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84987646582-on6h6vugkr2k5a8s002k20ta93pou6j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
